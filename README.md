@@ -1,3 +1,4 @@
+# Hi there,
 - 👋 Hi, I’m Nguyen Duy Anh – @AnhND21
 - 👀 I’m passionate about Full-stack Development
 - 🌱 Currently diving into DevOps, Cloud, Testing, and CI/CD to expand my skillset
